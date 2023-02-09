@@ -14,7 +14,7 @@ const USER_CONFIG = {
   APP_SECRET: '66ea529671df1476f7da810fbcbd4fb0',
 
   PROVINCE: '山西',
-  CITY: '孝义',
+  CITY: '吕梁',
 
   USERS: [
     {
@@ -49,7 +49,7 @@ const USER_CONFIG = {
 
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID: '66ea529671df1476f7da810fbcbd4fb0',
+  CALLBACK_TEMPLATE_ID: '	vox7VRkugvxhZ4bCOsEBw1falR8Wws7HvfsKU72lbO8',
 
   CALLBACK_USERS: [
     {
